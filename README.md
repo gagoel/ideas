@@ -1,18 +1,40 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
 **Table of Contents**
 
-- [-](#-)
-    - [Sidelog](#sidelog)
-    - [Death.app](#deathapp)
-    - [Agreed](#agreed)
-    - [EtiCo](#etico)
-    - [Badger](#badger)
-    - [Mink](#mink)
-    - [Social collage](#social-collage)
+- [Andrei's side project ideas](#andreis-side-project-ideas)
+    - [Web services](#web-services)
+        - [Sidelog](#sidelog)
+        - [Death.app](#deathapp)
+        - [Agreed](#agreed)
+        - [EtiCo](#etico)
+        - [Badger](#badger)
+        - [Mink](#mink)
+        - [Social collage](#social-collage)
+        - [Mockery](#mockery)
+        - [Algo](#algo)
+        - [Calendar match](#calendar-match)
+        - [Imgur for CSV](#imgur-for-csv)
+        - [Cloud extender](#cloud-extender)
+        - [Github comments](#github-comments)
+        - [Imgur vigilante](#imgur-vigilante)
+    - [OSS](#oss)
+        - [OSXinit](#osxinit)
+        - [new](#new)
+        - [Cloud ORM](#cloud-orm)
+        - [Darling](#darling)
+        - [markdoc](#markdoc)
+    - [Fun](#fun)
+        - [Hahazon](#hahazon)
+        - [Programming languages map](#programming-languages-map)
+        - [WAOTD](#waotd)
+        - [Learned](#learned)
+        - [Postgrid](#postgrid)
 
 <!-- markdown-toc end -->
 
-This is a list of project ideas that I had over time. I'm making it public based on the principle that [ideas are cheap](https://www.google.com/search?q=ideas+are+cheap).
+# Andrei's side project ideas
+
+Some ideas I had over the past couple of years. I'm making it public based on the principle that [ideas are cheap](https://www.google.com/search?q=ideas+are+cheap).
 
 Yes, the names are silly, they're just codenames to make referencing easier.
 
