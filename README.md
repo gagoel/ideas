@@ -48,7 +48,7 @@ A service for storing side-project ideas.
 
 Features:
 
-* Zero knowledge is important for the users' piece of mind (also, why not?).
+* Zero knowledge is important for the users' peace of mind (also, why not?).
 * Sharing ideas with friends, or with the `sidelog` commmunity. It's easier to start working on something together.
 * Informal equity-splitting agreement. (something to point to when someone offers to buy your silly side project for 1 cool million)
 
