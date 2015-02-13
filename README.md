@@ -65,7 +65,7 @@ A web service for informal agreements. Not legally enforceable, but any party ca
 Features:
 
 * Email-driven; there's no easy way of establishing "real" identity on the Internet, so an agreement must happen between email addresses, not *people*. This also means that confirmation happens via email.
-* Public *and* private/unlisted agreements. As I said, any part can make an agreement public if unsatisfied.
+* Public *and* private/unlisted agreements. As I said, any party can make an agreement public if unsatisfied.
 
 Use cases:
 
@@ -85,7 +85,7 @@ Gotchas:
 
 Fun ideas:
 
-* Mobile apps that can scan barcodes; some times when shopping you get several otherwise identical products, this might be a good way to differentiate between them.
+* Mobile apps that can scan barcodes; quite often when shopping you'll have several very similar options, this might be a good way to differentiate between them.
 
 
 ### Badger
@@ -100,9 +100,9 @@ Problems:
 Ideas:
 
 * Pinboard integration: Can it be developed on top of pinboard.in? Their db isn't bad, and the cost of building a ecosystem in this area is very high.
-* Intelligent *complex link* detection: A bookmark can be more complex than a link (Youtube playlist, Courser course, etc.). Therefore, a way of mapping a bookmark to a set of links might be useful.
+* Intelligent *complex resource* detection: A bookmark can contain more than one link (think Youtube playlist, MOOC course, etc.). Therefore, a way of mapping a bookmark to a set of links or ID might be useful.
 
-(Both badgers and minks are cute, furry animals, and badgers hoard stuff (URLs, most likely) in their underground burrows. I did warn you the names were stupid.)
+*(Both badgers and minks are cute, furry animals, and badgers hoard stuff (URLs, most likely) in their underground burrows. I did warn you the names were stupid.)*
 
 ### Mink
 
@@ -126,8 +126,8 @@ Features:
 
 * Ratings are essential.
 * Holding and getting interviews must be balanced.
-* Getting interviews from higher levels costs money (most go to the interviewer, some to the website).
-* Top company interviewers can earn money and sharpen their interviewing skills on the website.
+* Being interviewed by higher levels costs money (the interviewer should get 80%+).
+* Fast track to a high level if you work for a top company. Incentive: earn money while sharpening your interview skills; go pro bono if you want to give back to society.
 
 PS: If you build this without me I'll be very sad.
 
@@ -142,27 +142,31 @@ Similar:
 
 ### Calendar match
 
-Solution to find when every meeting invitee is available. Google Calendar seems to have a [builtin feature to do that](https://support.google.com/calendar/answer/178219), however nothing like this that's simple and cross-platform seems to exist. Something that works with gcal/outlook would be a great start. Outlook provides add-ins, for Google Calendar a browser plugin might be appropriate.
+Find when everyone is available for a meeting. Google Calendar seems to have a [builtin feature to do that](https://support.google.com/calendar/answer/178219), however nothing like this that's simple and cross-platform seems to exist. Something that works with gcal/outlook would be a great start. Outlook provides add-ins, and for Google Calendar a browser plugin might be appropriate.
 
 ### Imgur for CSV
 
-The next Instagram combined with Whats App. A simple service to upload, host, and display CSVs or other tabular file formats. Might feature interesting public data sets on the front page. Example, a [researcher just published 10 million username/password pairs](https://xato.net/passwords/ten-million-passwords/).
+The next Instagram/Whats App hybrid that will change the world and revolutionize how you buy hispter clothes online.
+
+A simple service to upload, host, and display CSVs or other tabular file formats. Might feature interesting public data sets on the front page. Example, a [researcher just published 10 million username/password pairs](https://xato.net/passwords/ten-million-passwords/).
 
 Not necessarily for large public data sets (you can find more [here](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public), check it out). Uploading bigger files could be a premium feature.
 
+(This could as well be a Github Gist visualization feature.)
+
 ### Cloud extender
 
-A tool that creates a virtual filesystem from multiple cloud storage accounts. Just between Google Drive, Streamnation, and OneDrive you can get 50GB of totally free storage.
+A tool that creates a virtual filesystem from multiple cloud storage accounts. Just between Google Drive, Streamnation, and OneDrive you can get 50GB of free storage.
 
 Features:
 
 * faster speeds as multiple back ends are used
 * redundancy is an option, files can have replicas
-* bonus, probably get banned from google/microsoft/dropbox services for life
+* bonus, a chance to get banned from these services for life
 
 ### Github comments
 
-Sometimes Github repos feel like they could use a simple reddit-like commenting system. Gitter does a good job of providing a chat interface to a repository, although the fact that it's not widely used speaks for how useful it is (i.e. popular projects use IRC, for non-popular ones an issue usually is enough communication). `github-comments` would be a simple service that just adds a commenting layer on top of repositories.
+Sometimes Github repos feel like they could use a simple imgur-like commenting system. Gitter does a good job of providing a chat interface to a repository, although the fact that it's not widely used speaks for how useful that feature is (i.e. popular projects use IRC, for non-popular ones an issue usually is enough communication). `github-comments` would be a simple service that just adds a commenting layer on top of repositories.
 
 How to access comment page:
 
@@ -171,13 +175,13 @@ How to access comment page:
 
 ### Imgur vigilante
 
-`imgur-vigilante` is a browser extension to mass-up/downvote on Imgur
+`imgur-vigilante` is a browser extension to mass-[up|down]vote on Imgur
 
 ## OSS
 
 ### OSXinit
 
-Mac configuration backup. The aim is to make transition between computers as quick as possible.
+Mac configuration backup. The aim is to make the transition to a new computer as quick as possible.
 
 Look up:
 
