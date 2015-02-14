@@ -187,6 +187,7 @@ Look up:
 
 * https://github.com/lra/mackup
 * https://dotfiles.github.io/
+* https://github.com/geerlingguy/mac-dev-playbook ([hn](https://news.ycombinator.com/item?id=9049218))
 
 ### new
 
