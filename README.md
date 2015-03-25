@@ -173,6 +173,8 @@ How to access comment page:
 1. `github.com/repo` -> `github-comments.com/repo`
 2. Install a browser plugin. Notification count shows at a glance how many comments a page has.
 
+Update: it's been built! https://news.ycombinator.com/item?id=9262209
+
 ### Imgur vigilante
 
 `imgur-vigilante` is a browser extension to mass-[up|down]vote on Imgur
