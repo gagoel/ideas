@@ -75,6 +75,8 @@ Use cases:
 
 ### EtiCo
 
+**edit** It's been done! https://buycott.com/
+
 How ethical is a company? A crowd-sourced way of establishing this. It can work via votes, reviews, posting news articles, etc. but ideally each company would get a big `x out of 100` score.
 
 
